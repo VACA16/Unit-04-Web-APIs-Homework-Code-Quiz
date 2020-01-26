@@ -1,0 +1,20 @@
+header{
+    background-color: burlywood;
+}
+
+.wrapper{
+    height: 500px;
+    background-color: crimson;
+}
+
+p{
+    text-align: center;
+}
+
+.start{
+    background-color: chartreuse;
+}
+
+.hide{
+    display: none;
+}
